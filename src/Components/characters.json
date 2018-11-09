@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Don Draper",
+        "image": "img/Don-Draper.jpg",
+        "clicked": false
+    }, {
+        "id": 2,
+        "name": "Peggy Olson",
+        "image": "img/Peggy-Olson.jpg",
+        "clicked": false
+    }, {
+        "id": 3,
+        "name": "Joan Holloway",
+        "image": "img/Joan-Holloway.jpg",
+        "clicked": false
+    }, {
+        "id": 4,
+        "name": "Roger Sterling",
+        "image": "img/Roger-Sterling.jpg",
+        "clicked": false
+    }, {
+        "id": 5,
+        "name": "Betty-Draper",
+        "image": "img/Betty-Draper.jpg",
+        "clicked": false
+    }, {
+        "id": 6,
+        "name": "Pete Campbell",
+        "image": "img/Pete-Campbell.jpg",
+        "clicked": false
+    }, {
+        "id": 7,
+        "name": "Bert Cooper",
+        "image": "img/Bert-Cooper.jpg",
+        "clicked": false
+    }, {
+        "id": 8,
+        "name": "Ken Cosgrove",
+        "image": "img/Ken-Cosgrove.jpg",
+        "clicked": false
+    }, {
+        "id": 9,
+        "name": "Salvatore Romano",
+        "image": "img/Salvatore-Romano.jpg",
+        "clicked": false
+    }, {
+        "id": 10,
+        "name": "Paul Kinsey",
+        "image": "img/Paul-Kinsey.jpg",
+        "clicked": false
+    }, {
+        "id": 11,
+        "name": "Harry-Crane",
+        "image": "img/Harry-Crane.jpg",
+        "clicked": false
+    }, {
+        "id": 12,
+        "name": "Megan Calvet",
+        "image": "img/Megan-Calvet.jpg",
+        "clicked": false
+    }
+]

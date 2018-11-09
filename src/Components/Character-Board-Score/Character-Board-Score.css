@@ -1,0 +1,15 @@
+#game-title {
+
+}
+
+#scoreBoard {
+    float: right;
+}
+
+span {
+    color: red;
+}
+
+h2 {
+    display: inline;
+}
